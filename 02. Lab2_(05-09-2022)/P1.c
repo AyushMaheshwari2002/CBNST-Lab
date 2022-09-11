@@ -14,7 +14,7 @@ int main()
 	 
 	 // Input
 	 up:
-	 printf("\nEnter two initial guesses : \n");
+	 printf("Enter two initial guesses : \n");
 	 scanf("%f %f", &x0, &x1);
 
 	 printf("Enter tolerable error : \n");
