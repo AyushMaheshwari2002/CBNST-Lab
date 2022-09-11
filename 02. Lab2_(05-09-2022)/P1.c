@@ -5,6 +5,7 @@
 
 // Given Equation
 #define f(x) x*x*x - 5*x + 1
+// #define f(x) 3 * x + sin (x) - exp (x);
 
 int main()
 {
