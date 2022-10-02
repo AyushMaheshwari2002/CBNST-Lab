@@ -1,7 +1,6 @@
-//  GAUSS ELIMINATION METHOD
+//  GAUSS ELIMINATION METHOD FOR FINDING SOLUTION OF LINEAR EQUATIONS
 
-
-  
+ 
 #include<stdio.h>
 #include<math.h>
 
