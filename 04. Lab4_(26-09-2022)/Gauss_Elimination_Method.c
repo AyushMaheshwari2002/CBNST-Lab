@@ -66,7 +66,7 @@ int main()
 
     for(int i = 0; i < n; i++)
     {
-        printf("The value of x%d =  %0.2f\n", i, x[i]); 
+        printf("The value of x%d = %0.2f\n", i, x[i]); 
     }
     return 0;
 }
