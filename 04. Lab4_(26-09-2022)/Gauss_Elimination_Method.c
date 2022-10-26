@@ -52,7 +52,7 @@ int main()
     float x[n];
     x[n-1] = arr[n-1][n] / arr[n-1][n-1];
 
-    for(int i = n-1; i >= 0; i--)
+    for(int i = n-2; i >= 0; i--)
     {
         float sum = 0;
         for(int j = i+1; j < n; j++)
