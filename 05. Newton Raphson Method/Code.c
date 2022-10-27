@@ -7,7 +7,7 @@
 
 #define f(x) x*log10(x) - 1.2;
 // derivation of f(x)
-#define g(x) log10(x) + 0.43429
+#define g(x) log10(x) + 0.43429;
 
 int main()
 {
