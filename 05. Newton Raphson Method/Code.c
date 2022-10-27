@@ -1,14 +1,13 @@
 // NEWTON RAPHSON METHOD TO FIND THE ROOT OF EQUATIONS
 
 
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<math.h>
 
-#define f(x) 3*x - cos(x) - 1
+#define f(x) x*log10(x) - 1.2;
 // derivation of f(x)
-#define g(x) 3 + sin(x)
+#define g(x) log10(x) + 0.43429
 
 int main()
 {
